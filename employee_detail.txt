@@ -1,2 +1,3 @@
 Employee name: Balaji.D
 Employee code: 5502
+Company code : ASMBNG
